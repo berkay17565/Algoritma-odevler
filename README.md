@@ -1,4 +1,6 @@
+https://app.patika.dev/berkayaltn
 1.Insertion Sort
+
 Başlangıç
 
 [22,27,16,2,18,6]
